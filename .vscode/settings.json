@@ -4,5 +4,8 @@
     "titleBar.activeForeground": "#000",
     "titleBar.inactiveBackground": "#ffce2e",
     "titleBar.inactiveForeground": "#000"
-  }
+  },
+  "css.customData": [".vscode/tailwind.json"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
 }
